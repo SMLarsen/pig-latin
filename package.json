@@ -1,0 +1,19 @@
+{
+  "name": "pig-latin",
+  "version": "1.0.0",
+  "description": "Codewars 5kyu - Simple Pig Latin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMLarsen/pig-latin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMLarsen/pig-latin/issues"
+  },
+  "homepage": "https://github.com/SMLarsen/pig-latin#readme"
+}
